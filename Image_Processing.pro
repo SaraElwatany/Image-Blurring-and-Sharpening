@@ -17,26 +17,18 @@ SOURCES += \
     frequency.cpp \
     histograms.cpp \
     main.cpp \
-    mainwindow.cpp \
-    tab2dialog.cpp
+    mainwindow.cpp
 
 HEADERS += \
     filters.h \
     frequency.h \
     histograms.h \
-    mainwindow.h \
-    tab2dialog.h
+    mainwindow.h 
 
 FORMS += \
-    mainwindow.ui \
-    tab2dialog.ui
+    mainwindow.ui 
 
 
-
-
-
-#INCLUDEPATH += D:\OpenCV\opencv\release\lib
-#LIBS += D:\OpenCV\opencv\release\bin -libopencv_calib3d470 -lopencv_core470.dll -lopencv_imgproc470.dll -lopencv_imgcodecs470.dll -lopencv_video470.dll -lopencv_videoio470.dll -lopencv_dnn470.dll
 
 
 
