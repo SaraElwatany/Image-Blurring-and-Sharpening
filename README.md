@@ -36,17 +36,15 @@ The above repository includes Noising Image, Denoising Image with several types 
 - ![Picture3](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/8a3def5e-a3de-4929-bc58-59e490ea0291)
 
 ## Denoise Image 
-- Average Filter
-- ![Picture4](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/7048a4a2-52c6-4ef7-b6e4-9f00fb565687)
 
 - Average Filter
-- ![Picture4](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/7048a4a2-52c6-4ef7-b6e4-9f00fb565687)
+ ![Picture4](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/7048a4a2-52c6-4ef7-b6e4-9f00fb565687)
 
 - Gaussian Filter
-- ![Picture6](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/84ab0969-a19f-4c60-8ba5-f8736624c323)
+ ![Picture6](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/84ab0969-a19f-4c60-8ba5-f8736624c323)
 
 - Median Filter
-- ![Picture7](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/733e601a-0e0d-4dc3-9f3a-fc33cc26d730)
+ ![Picture7](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/733e601a-0e0d-4dc3-9f3a-fc33cc26d730)
 
 ## Edge Detection
 - Sobel Edge Detedtor
