@@ -74,11 +74,6 @@ INCLUDEPATH += D:/Libraries/OpenCV/opencv/release/include
 DEPENDPATH += D:/Libraries/OpenCV/opencv/release/include
 
 
-#LIBS += D:\OpenCV\opencv\release\bin\libopencv_calib3d320.dll
-#LIBS += D:\OpenCV\opencv\release\bin\libopencv_core320.dll
-#LIBS += D:\OpenCV\opencv\release\bin\libopencv_highgui320.dll
-#LIBS += D:\OpenCV\opencv\release\bin\libopencv_imgcodecs320.dll
-#LIBS += D:\OpenCV\opencv\release\bin\libopencv_imgproc320.dll
 
 
 
