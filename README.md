@@ -25,8 +25,9 @@ The above repository includes Noising Image, Denoising Image with several types 
 # Snapshots from our work
 
 ## Noise Addition
+
 - Gaussian Noise
-![Picture1](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/6806eb24-ca6d-4136-b0da-2fad25b61eae)
+- ![Picture1](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/6806eb24-ca6d-4136-b0da-2fad25b61eae)
 
 - Salt & Pepper Noise
 ![Picture2](https://github.com/SaraElwatany/Image-Blurring-and-Sharpening/assets/93448764/9903a224-f141-4234-9432-e59556eb19a2)
